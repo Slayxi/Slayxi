@@ -28,18 +28,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,php,docker,git,github,vscode,figma" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Slayxi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slayxi&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mysql,php,vscode,figma" />
 
 </div>
 
@@ -49,6 +38,5 @@
 
 ```diff
 + Full Stack Developer
-+ Building modern web applications
-+ Always learning new technologies
++ Working for Hyperion
 + Open to collaboration
