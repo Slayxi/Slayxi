@@ -70,16 +70,6 @@ I'm a **Full-Stack Developer** passionate about building modern, reliable, and m
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Slayxi/Slayxi/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
