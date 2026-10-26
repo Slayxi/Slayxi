@@ -1,65 +1,35 @@
 
-<!--
-  GitHub Profile README
-  Owner: Slayxi
-  Style: Minimal / Professional
--->
-
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2"
-    width="100%"
-    alt=""
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0d1117&section=header" width="100%" alt="Header"/>
 
-  <br/>
+# Slayxi
 
-  <h1>Slayxi</h1>
+### Full-Stack Developer
 
-  <p>
-    <strong>Full-Stack Developer</strong>
-  </p>
-
-  <a href="https://github.com/Slayxi">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Building+thoughtful+digital+experiences;Turning+ideas+into+reliable+software;Learning%2C+building%2C+improving."
-      alt="Typing animation"
-    />
-  </a>
-
-  <br/>
-
-  <a href="https://github.com/Slayxi?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/Explore-My_Projects-18181b?style=flat-square"
-      alt="Explore my projects"
-    />
-  </a>
-
-  <a href="https://github.com/Slayxi?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/Slayxi?style=flat-square&color=18181b&label=Followers"
-      alt="GitHub followers"
-    />
-  </a>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Building+modern+web+applications;Writing+clean+and+maintainable+code;Turning+ideas+into+reality" alt="Typing animation"/>
 
 <br/>
 
+<a href="https://github.com/Slayxi?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-21262d?style=flat-square&logo=github&logoColor=c9d1d9" alt="Projects"/>
+</a>
+<a href="https://github.com/Slayxi?tab=followers">
+  <img src="https://img.shields.io/github/followers/Slayxi?style=flat-square&color=21262d&label=Followers&labelColor=161b22" alt="Followers"/>
+</a>
+
+</div>
+
 ---
 
-## About
+## About Me
 
-I'm a **Full-Stack Developer** interested in building useful, reliable, and maintainable software.
+I'm a **Full-Stack Developer** passionate about building modern, reliable, and maintainable software.
 
-I enjoy working across the development stack, solving technical problems, and turning ideas into practical applications.
-
-- Building web applications from front to back.
-- Writing clean, readable, and maintainable code.
-- Exploring software architecture and development best practices.
-- Continuously learning and improving through hands-on projects.
+- Building web applications from frontend to backend.
+- Focused on clean code and thoughtful architecture.
+- Exploring new technologies and development practices.
+- Always learning, experimenting, and improving.
 
 ---
 
@@ -67,10 +37,7 @@ I enjoy working across the development stack, solving technical problems, and tu
 
 <div align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,docker&theme=light"
-  alt="Development tools and technologies"
-/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,docker&theme=dark" alt="Tech stack"/>
 
 </div>
 
@@ -80,30 +47,24 @@ I enjoy working across the development stack, solving technical problems, and tu
 
 <div align="center">
 
-<a href="https://github.com/Slayxi">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Slayxi&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&bg_color=ffffff&title_color=18181b&text_color=52525b&icon_color=52525b&include_all_commits=true"
-    alt="Slayxi GitHub statistics"
-  />
-</a>
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=Slayxi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&hide_title=true"
+  alt="GitHub statistics"
+/>
 
-<a href="https://github.com/Slayxi">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slayxi&layout=compact&hide_border=true&bg_color=ffffff&title_color=18181b&text_color=52525b"
-    alt="Most used programming languages"
-  />
-</a>
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slayxi&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e"
+  alt="Most used languages"
+/>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/Slayxi">
-  <img
-    src="https://streak-stats.demolab.com?user=Slayxi&hide_border=true&background=FFFFFF&ring=52525B&fire=18181B&currStreakLabel=52525B&sideLabels=52525B&currStreakNum=18181B&sideNums=18181B&dates=71717A"
-    alt="GitHub contribution streak"
-  />
-</a>
+<img
+  src="https://streak-stats.demolab.com?user=Slayxi&hide_border=true&background=0D1117&ring=8B949E&fire=C9D1D9&currStreakLabel=C9D1D9&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681"
+  alt="GitHub contribution streak"
+/>
 
 </div>
 
@@ -113,31 +74,19 @@ I enjoy working across the development stack, solving technical problems, and tu
 
 <div align="center">
 
-<p>
-  <sub>A little progress, every day.</sub>
-</p>
-
-<img
-  src="https://raw.githubusercontent.com/Slayxi/Slayxi/output/github-snake.svg"
-  alt="Animated GitHub contribution snake"
-/>
+<img src="https://raw.githubusercontent.com/Slayxi/Slayxi/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
 
 </div>
 
 ---
 
-## Let's Connect
+## Connect
 
 <div align="center">
 
 <a href="https://github.com/Slayxi">
-  <img
-    src="https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+  <img src="https://img.shields.io/badge/GitHub-Visit_Profile-21262d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
-
-<!-- Add your LinkedIn or portfolio link here when available. -->
 
 <br/><br/>
 
@@ -145,10 +94,6 @@ I enjoy working across the development stack, solving technical problems, and tu
 
 <br/><br/>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2"
-  width="100%"
-  alt=""
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0d1117&section=footer" width="100%" alt="Footer"/>
 
 </div>
