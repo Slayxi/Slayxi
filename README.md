@@ -5,9 +5,9 @@
 
 # Slayxi
 
-### Full-Stack Developer
+### Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Building+modern+web+applications;Writing+clean+and+maintainable+code;Turning+ideas+into+reality" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Designing+and+building+software;Writing+clean+and+maintainable+code;Solving+problems+through+technology;Always+learning%2C+always+building" alt="Typing animation"/>
 
 <br/>
 
@@ -24,20 +24,20 @@
 
 ## About Me
 
-I'm a **Full-Stack Developer** passionate about building modern, reliable, and maintainable software.
+I'm a **Software Engineer** passionate about designing, developing, and maintaining reliable software solutions.
 
-- Building web applications from frontend to backend.
-- Focused on clean code and thoughtful architecture.
-- Exploring new technologies and development practices.
-- Always learning, experimenting, and improving.
+- Focused on clean code, maintainability, and software quality.
+- Enjoy solving complex problems through thoughtful engineering.
+- Interested in software architecture and modern development practices.
+- Committed to continuous learning and technical improvement.
 
 ---
 
-## Tech Stack
+## Technologies & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,docker&theme=dark" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,docker&theme=dark" alt="Technologies and tools"/>
 
 </div>
 
